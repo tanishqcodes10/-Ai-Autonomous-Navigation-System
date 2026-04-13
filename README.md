@@ -172,4 +172,4 @@ By working on this project you will:
 
 - Tanishq Jakate – Student / Robotics & AI Enthusiast  
 - GitHub: [tanishqcodes10]()  
-- LinkedIn: []()
+- LinkedIn: (www.linkedin.com/in/tanishq-jakate-93617a402)
