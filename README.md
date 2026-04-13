@@ -170,6 +170,6 @@ By working on this project you will:
 
 ## Author
 
-- **Your Name** – Student / Robotics & AI Enthusiast  
+- Tanishq Jakate – Student / Robotics & AI Enthusiast  
 - GitHub: [tanishqcodes10]()  
 - LinkedIn: []()
