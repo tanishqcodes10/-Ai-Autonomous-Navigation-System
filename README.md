@@ -170,6 +170,6 @@ By working on this project you will:
 
 ## Author
 
-- Tanishq Jakate – Student / Robotics & AI Enthusiast  
+- Tanishq Jakate – Student / AI Enthusiast  
 - GitHub: [tanishqcodes10]()  
 - LinkedIn: (www.linkedin.com/in/tanishq-jakate-93617a402)
